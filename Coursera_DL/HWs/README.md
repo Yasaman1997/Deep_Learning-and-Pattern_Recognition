@@ -1,7 +1,7 @@
 
 Answers to assignments of Neural Networks for Machine Learning by Geoffery Hinton on Coursera
 
-(I am the course lin)[https://www.coursera.org/learn/neural-networks]
+(https://www.coursera.org/learn/neural-networks)I am the course link
 
 Assignment 1
 The perceptron learning algorithm
